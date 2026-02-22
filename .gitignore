@@ -1,0 +1,15 @@
+# R session files
+.RData
+.Rhistory
+.Rproj.user/
+
+# Not your own work — textbooks and course materials
+Mastering_Metrics_Angrist.pdf
+Stewart_Calc_9e_PPT_CH15_05.pdf
+Stewart_Calc_9e_PPT_CH16_02.pdf
+Econ498_Lecture3.pdf
+Econ498_Outline.pdf
+Econ_498_Homework4.pdf
+ExamplePresentation2.pdf
+JapanEQ.pdf
+Lecture Notes/
